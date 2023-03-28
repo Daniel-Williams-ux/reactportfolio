@@ -21,7 +21,8 @@
     "loaders.css": "^0.1.2",
     "react-leaflet": "^4.2.1",
     "react-loaders": "^3.0.1",
-    "react-router-dom": "^6.9.0"
+    "react-router-dom": "^6.9.0",
+    "sass": "^1.60.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
